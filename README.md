@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nmariusp
 - 👀 I’m interested in programming for KDE
 - 🌱 I’m currently learning Qt, KDE
-- 📫 How to reach me https://invent.kde.org/nmariusp , https://www.youtube.com/channel/UCIeKZVjsZfPIlxwtzEugvkw
+- 📫 How to reach me https://invent.kde.org/nmariusp , https://www.youtube.com/@nmariusp
 
 <!---
 nmariusp/nmariusp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
